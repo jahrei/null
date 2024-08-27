@@ -6,6 +6,7 @@ _NULL_ is a collection of similarly themed skins in order to bring uniformity fo
 
 ## Geometry Dash
 
+currently unfinished; now in concept and planning.
 the _NULL_ skin for Geometry Dash requires Geode. the menu has shaders.
 
 | Menu          | 
@@ -14,6 +15,7 @@ the _NULL_ skin for Geometry Dash requires Geode. the menu has shaders.
 
 
 ## beatoraja / LR2oraja
+currently unfinished; now in concept and planning.
 the _NULL_ skin for beatoraja is based on "simple-play-v0.41" and "m_select".
 
 | Menu          | Gameplay      | Results    |
