@@ -3,6 +3,13 @@
 _NULL_ is a collection of similarly themed skins in order to have a uniform aesthetic for all of the rhythm or rhythm-related games that I play. 
 
 
+## Etterna
+currently unfinished; now in concept and planning.
+
+| Gameplay      | 
+| ------------- | 
+| ![etterna null v0.1](https://github.com/jahrei/null/blob/122aa2eed414e8eb19caad7ca82e1abe4bc4381b/screenshots/null_etterna_v0.1.png)  |
+
 
 ## Geometry Dash
 
