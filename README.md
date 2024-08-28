@@ -10,6 +10,14 @@ currently unfinished; now in concept and planning.
 | ------------- | 
 | ![etterna null v0.1](https://github.com/jahrei/null/blob/122aa2eed414e8eb19caad7ca82e1abe4bc4381b/screenshots/null_etterna_v0.1.png)  |
 
+## osu!mania 4k (plasma)
+currently unfinished; now in concept and planning.
+based on pl0x skin.
+
+| Gameplay      | 
+| ------------- | 
+| ![pl0x edit v1](https://github.com/jahrei/null/blob/c4fb3798aae58d23da09f21d4a11aec8216d7ad2/screenshots/2024_08_27_22_38_799.png)  |
+
 
 ## Geometry Dash (plasma)
 
