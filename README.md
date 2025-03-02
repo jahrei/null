@@ -37,5 +37,5 @@ the _NULL_ skin for beatoraja is based on "simple-play-v0.41" and "m_select".
 | ------------- | ------------- | ------------- |
 | ![beatoraja menu](https://github.com/jahrei/null/blob/83c694598378538d6dfc8f3e1c87f754e973a208/screenshots/2024_08_27_16_03_690.png)  | ![beatoraja v1](https://github.com/jahrei/null/blob/83c694598378538d6dfc8f3e1c87f754e973a208/screenshots/2024_08_27_16_21_166.png)  | ![beatoraja results](https://github.com/jahrei/null/blob/83c694598378538d6dfc8f3e1c87f754e973a208/screenshots/2024_08_27_15_47_177.png)
 
-## LR2oraja ~endless dream~ (zenith)
+## LR2oraja \~endless dream~ (zenith)
 currently unfinished; now in concept and planning. modified for BM play.
