@@ -24,7 +24,7 @@ based on skin "pl0x".
 ## Geometry Dash
 
 currently unfinished; now in concept and planning.
-the _NULL_ skin for Geometry Dash requires Geode. the menu has shaders.
+- requires Geode.
 
 | Menu          | 
 | ------------- | 
